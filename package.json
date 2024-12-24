@@ -1,0 +1,15 @@
+{
+  "name": "muru",
+  "version": "0.0.6",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carnation Studio",
+  "license": "MPL",
+  "description": "Muru is backend system for MachineLearning.",
+  "updataLog":"ONNX is now supported in muru.runtime"
+}
